@@ -3,6 +3,6 @@ function jogar1() {
 }
 
 function jogar2() {
-    window.location.href="./AventuraNaEta.html"
+    window.location.href="./AventuraNaETA.html"
 }
 
